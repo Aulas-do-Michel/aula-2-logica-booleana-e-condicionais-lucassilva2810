@@ -69,3 +69,4 @@ if cromossomo_escolhido =="chr17":
         print("Sim")
 else:
         print ("Não")
+
