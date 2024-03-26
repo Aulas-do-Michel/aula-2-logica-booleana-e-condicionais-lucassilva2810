@@ -46,3 +46,5 @@ if cromossomo_escolhido == "chr17" and 41196312 <= posicao_apontada <= 41277500:
     print("Sim")
 else:
     print("Não")
+
+
