@@ -100,3 +100,5 @@ elif baixo or (frequencia_alta and not excessoes):
     print('Não é relevante.')
 else:
     print('É relevante.')
+
+
